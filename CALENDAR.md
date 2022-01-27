@@ -62,6 +62,12 @@ At its start, this session will be tentatively scheduled to run every other week
 
 ![](https://files.catbox.moe/6x22k1.png)
 
+### PAML
+
+This externally-hosted session is for weekly progress updates and discussion concerning the Protocol Activity Modeling Language (PAML).
+
+For further reference, see https://github.com/friendzymes/paml.
+
 ### Purification
 
 This session discusses purification strategies and methods.
