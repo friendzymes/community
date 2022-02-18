@@ -21,7 +21,7 @@ assignees: ''
 
 `Add notes here.`
 
-### Contraints
+### Constraints
 
 - `Eligibility criteria`
 - `Award tiers`
